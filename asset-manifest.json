@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mz-react-firebase/static/css/main.564a75c1.chunk.css",
+    "main.js": "/mz-react-firebase/static/js/main.95bcf5c5.chunk.js",
+    "main.js.map": "/mz-react-firebase/static/js/main.95bcf5c5.chunk.js.map",
+    "runtime-main.js": "/mz-react-firebase/static/js/runtime-main.fdf279e7.js",
+    "runtime-main.js.map": "/mz-react-firebase/static/js/runtime-main.fdf279e7.js.map",
+    "static/js/2.54761103.chunk.js": "/mz-react-firebase/static/js/2.54761103.chunk.js",
+    "static/js/2.54761103.chunk.js.map": "/mz-react-firebase/static/js/2.54761103.chunk.js.map",
+    "index.html": "/mz-react-firebase/index.html",
+    "static/css/main.564a75c1.chunk.css.map": "/mz-react-firebase/static/css/main.564a75c1.chunk.css.map",
+    "static/js/2.54761103.chunk.js.LICENSE.txt": "/mz-react-firebase/static/js/2.54761103.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf279e7.js",
+    "static/js/2.54761103.chunk.js",
+    "static/css/main.564a75c1.chunk.css",
+    "static/js/main.95bcf5c5.chunk.js"
+  ]
+}
